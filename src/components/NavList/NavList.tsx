@@ -1,4 +1,4 @@
-import NavItem, { NavitemProps } from "../NavItem/Navitem";
+import NavItem, { NavitemProps } from "../NavItem/NavItem";
 import styles from "./NavList.module.css";
 
 const itemsArr: NavitemProps[] = [
