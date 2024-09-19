@@ -1,4 +1,5 @@
 import Navigation from "./components/Navigation/Navigation";
+import ProjectsList from "./components/ProjectsList/ProjectsList";
 import Title from "./components/Title/Title";
 
 function App() {
@@ -6,6 +7,9 @@ function App() {
     <>
       <Navigation />
       <Title />
+      <main className="section">
+        <ProjectsList />
+      </main>
     </>
   );
 }

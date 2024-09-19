@@ -21,6 +21,10 @@ body {
   color: var(--text-color);
 }
 
+main {
+  padding: 70px 0;
+}
+
 .container {
   margin: 0 auto;
   padding: 0 15px;
